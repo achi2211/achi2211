@@ -44,12 +44,12 @@ A web application built for a foundation that teaches basketball to children fro
 
 📸 ![Screenshot](https://github.com/user-attachments/assets/8ec2d39a-e333-4efd-b71e-97abe9b25920)
 
-🎥 Screencast of the AI Chat in Action
+---
 
-<video width="100%" controls>
-  <source src="demo_final.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎥 AI Chat Demo
+
+![AI Chat Demo](demo_final.gif)
+
 
 ---
 
