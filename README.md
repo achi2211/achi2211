@@ -6,18 +6,23 @@ I'm a passionate backend engineer with **12+ years of experience**, specializing
 
 - **Node.js (TypeScript)**
 - **Java (Spring Boot)**
-- **Python (Django, LangChain)**  
-- **Cloud (AWS)**  
+- **Python (Django, FastAPI, LangChain, LangGraph)**  
+- **Cloud (AWS: Lambda, Step Functions, S3, DynamoDB, etc.)**  
 - **SQL & NoSQL Databases**  
+- **REST API Design & Development**  
+- **Hexagonal Architecture & Domain-Driven Design (DDD)**  
 - **AI Integration (LangChain, LangGraph, LangSmith)**  
 
 ---
 
 ## 🧠 AI + Backend
 
+I have extensive experience designing **REST APIs**, implementing **hexagonal architectures**, applying **DDD principles**, and building **serverless workflows** with **AWS Lambda** and **Step Functions**.
+
 I’m currently building AI-powered tools that combine the reasoning of large language models with structured data in PostgreSQL, creating **LLM-based chat systems** with real-time database access.
 
-> ✅ What’s next? I’m integrating **RAG (Retrieval-Augmented Generation)** to analyze **attached documents** like medical and psychology reports — all powered by LLMs.
+> ✅ **Completed:** AI chat assistant for generating **custom reports** from database records.  
+> ✅ **Next:** Building a **home professional hiring assistant for hand.com.py**, leveraging **memory, reasoning, and tools** to guide users through the correct hiring process while ensuring accurate professional recommendations.  
 
 ---
 
@@ -32,15 +37,18 @@ I’m currently building AI-powered tools that combine the reasoning of large la
 
 ## 🌟 Projects I'm Proud Of
 
-### 🛠️ [Hand.com.py](https://hand.com.py)
+### 🛠️ [hand.com.py](https://hand.com.py)
 Co-founder of a platform that connects home professionals with users for services across Paraguay.
+
+✅ Currently building an **AI-powered assistant** to help users hire professionals, using **memory, reasoning, and tool-based workflows** to follow the correct process.
 
 ---
 
 ### 🏀 [ProdeBasquet System](https://sistema.prodebasquet.com/)
 A web application built for a foundation that teaches basketball to children from low-income families.
 
-✅ Includes an **AI chat** that connects an **LLM to a PostgreSQL database** to answer user queries with a mix of real data and general knowledge.
+✅ Includes an **AI chat** that connects an **LLM to a PostgreSQL database** to answer user queries with a mix of real data and general knowledge.  
+> What’s next? I’m integrating **RAG (Retrieval-Augmented Generation)** to analyze **attached documents** like medical and psychology reports — all powered by LLMs.
 
 📸 ![Screenshot](https://github.com/user-attachments/assets/8ec2d39a-e333-4efd-b71e-97abe9b25920)
 
@@ -49,7 +57,6 @@ A web application built for a foundation that teaches basketball to children fro
 🎥 AI Chat Demo
 
 ![AI Chat Demo](demo_final.gif)
-
 
 ---
 
@@ -62,7 +69,6 @@ A web application built for a foundation that teaches basketball to children fro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
 
 ## 🤝 Connect With Me
 
