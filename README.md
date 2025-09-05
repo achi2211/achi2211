@@ -9,7 +9,7 @@ I'm a passionate backend engineer with **12+ years of experience**, specializing
 - **Python (Django, FastAPI, LangChain, LangGraph)**  
 - **Cloud (AWS: Lambda, Step Functions, S3, DynamoDB, etc.)**  
 - **SQL & NoSQL Databases**  
-- **REST API Design & Development**  
+- **REST & GraphQL API Design & Development**
 - **Hexagonal Architecture & Domain-Driven Design (DDD)**  
 - **AI Integration (LangChain, LangGraph, LangSmith)**  
 
