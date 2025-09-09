@@ -74,7 +74,7 @@ A web application built for a foundation that teaches basketball to children fro
 ![AI Chat Demo](demo_final.gif)
 
 - **Attendance by Photograph Feature**  
-![Attendance Demo](demo_attendance.gif)  
+![Attendance Demo 2](demo_attendance.gif)  
 > Real-time **attendance marking** using **face recognition**. The system captures group photos from the frontend, detects and identifies players, processes the image efficiently in the backend, and automatically logs attendance, handling multiple players in a single shot seamlessly.
 
 
